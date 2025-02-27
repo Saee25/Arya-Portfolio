@@ -1009,7 +1009,7 @@ section {
 }
 
 .flip-card-back {
-  background-color: #4CAF50;
+  background-color: #2f8cd3;
   color: white;
   transform: rotateY(180deg);
   display: flex;
@@ -1037,7 +1037,7 @@ section {
 
 .youtube-link:hover {
   background-color: white;
-  color: #4CAF50;
+  color: #2f8cd3;
 }
 
 /* Existing Blog Styles */
